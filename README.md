@@ -1,5 +1,5 @@
 # WavLM
-The SLM finetuning for Persian
+The SLM finetuning for Persian bsaed on the `microsoft/wavlm-base-plus` model.
 
 ## Dataset
 Prepare a dataset of high-quality audio, with diverse number of speakers.
